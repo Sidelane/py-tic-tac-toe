@@ -1,5 +1,5 @@
-# py-tic-tac-toe
+# Object Oriented Tic-tac-toe
 
 ---
 
-Simple Python Tic Tac Toe Implementation
+Simple Python Tic-tac-toe Implementation
