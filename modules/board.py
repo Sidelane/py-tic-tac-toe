@@ -39,3 +39,4 @@ class Board:
 
     def clean_board(self):
         self.board = ["0", "0", "0", "0", "0", "0", "0", "0", "0"]
+        
